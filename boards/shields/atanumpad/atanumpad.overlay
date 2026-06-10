@@ -1,4 +1,4 @@
-#include atanumpad.dtsi
+#include "atanumpad.dtsi"
 
 / {
     kscan0: kscan0 {
